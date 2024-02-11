@@ -9,7 +9,7 @@ All the icons used on this project are from [Flaticon](https://www.flaticon.com/
 | [Tank Icon](./icons/tank_icon.png) | <img src="./icons/tank_icon.png" height="48">
 | [Tank Icon 2](./icons/tank_icon2.png) | <img src="./icons/tank_icon2.png" height="48">
 |  |  |
-
+| [Tank](https://www.flaticon.com/free-icon/tank_3111484) | <img src="./icons/tank.png" height="48">
 
 ## 3d Models
 All the 3d models used on this project are from [PolyPizza](https://poly.pizza/).

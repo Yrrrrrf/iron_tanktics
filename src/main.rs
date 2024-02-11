@@ -1,9 +1,6 @@
-#![allow(unused)]
+// #![allow(unused)]
+#![allow(dead_code)]
 
-use bevy::prelude::*;
-
-mod tank;
-use tank::*;
 
 mod app;
 use app::init_bevy_app;

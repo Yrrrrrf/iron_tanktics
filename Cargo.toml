@@ -12,7 +12,7 @@ opt-level = 3  # higher optimization for dependencies (to compensate for the lac
 
 
 [dependencies]
-dev_utils ={ version = "0.0.*" }
+# dev_utils = { version = "0.0.*" }
 
 bevy = { version = "0.*" }
 image = { version = "0.*" }

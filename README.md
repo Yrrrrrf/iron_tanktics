@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="assets/icons/tank_icon.png" alt="Tank Tactics" width="192">
+    <img src="assets/icons/tank.png" alt="Tank Tactics" width="192">
     <div align="center">TankTics</div>
 </h1>
 
